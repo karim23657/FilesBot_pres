@@ -1,4 +1,6 @@
 <?php
+
+echo "Hello";
 require_once __DIR__ . "/config.php";
 use kyle2142\PHPBot;
 
